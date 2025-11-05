@@ -33,19 +33,19 @@ Passionate about building scalable software solutions, learning new technologies
 *Dec 2022 – Present | Gemini API, Spring Boot, Spring AI, React, Google*  
 - Developed an AI-powered assistant to classify emails, generate summaries, and draft professional replies.  
 - Built REST APIs, a React frontend, and a browser extension for Gmail/Outlook integration.  
-🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/SmartInboxAI)
+🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/SmartInboxAI-AI-powered-Smart-Email-Assistant.git)
 
 ### **SmartBill – Retail Billing System**  
 *Spring Boot, React, MySQL, Spring Security, Razorpay*  
 - Full-stack retail billing application with category & item management, cart & billing, search & filter, and responsive UI.  
 - Implemented secure authentication and Razorpay payment gateway integration.  
-🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/-SmartBill-Retail-Billing-System.git   )
+🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/-SmartBill-Retail-Billing-System.git)
 
 ### **Bitly Clone – URL Shortening Service**  
 *Spring Boot, React, MySQL, Redis, Docker, AWS*  
 - Built a URL shortening platform with JWT authentication, role-based access, and secure redirection.  
 - Implemented link management, analytics dashboard, and deployed on AWS using Docker & Redis caching.  
-🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/BitlyClone)
+🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/Bitly-Clone-URL-Shortening-Service.git)
 
 ---
 
