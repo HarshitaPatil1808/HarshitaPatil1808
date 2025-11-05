@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Harshita Patil</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+# Hi 👋, I'm Harshita Patil
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+**Aspiring Full Stack Developer** | Bengaluru, India  
+📞 +91 6363014893 | ✉️ harshitapatil1808@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/harshita-patil-2555782a0) | 🔗 [GitHub](https://github.com/HarshitaPatil1808)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitapatil1808&label=Profile%20views&color=0e75b6&style=flat" alt="harshitapatil1808" /> </p>
+---
 
-- 🌱 I’m currently learning **DevOps**
+## 👩‍💻 About Me
+Aspiring Full Stack Developer with a strong foundation in **Java, HTML, CSS, JavaScript, React.js, and Spring Boot**.  
+Graduated in **Information Science & Engineering** from **MVJ College Of Engineering, Bengaluru**.  
+Passionate about building scalable software solutions, learning new technologies, and contributing to impactful projects.
 
-- 💻 I specialize in Full Stack Web Development (React + Spring Boot) **Smart Email Assistant,Retail Billing Software,Bitly Clone**
+---
 
-- 🎯 Goal-oriented, with a strong focus on writing clean and efficient code **React JS | HTML | CSS | JavaScript | Bootstrap | Tailwind CSS**
+## 🛠️ Tech Stack & Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 📫 How to reach me **harshitapatil1808@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/harshitapatil18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitapatil18" height="30" width="40" /></a>
-</p>
+## 💻 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **SmartInboxAI – AI-powered Smart Email Assistant**  
+*Dec 2022 – Present | Gemini API, Spring Boot, Spring AI, React, Google*  
+- Developed an AI-powered assistant to classify emails, generate summaries, and draft professional replies.  
+- Built REST APIs, a React frontend, and a browser extension for Gmail/Outlook integration.  
+🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/SmartInboxAI)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitapatil1808&show_icons=true&locale=en&layout=compact" alt="harshitapatil1808" /></p>
+### **SmartBill – Retail Billing System**  
+*Spring Boot, React, MySQL, Spring Security, Razorpay*  
+- Full-stack retail billing application with category & item management, cart & billing, search & filter, and responsive UI.  
+- Implemented secure authentication and Razorpay payment gateway integration.  
+🔗 [GitHub Repository]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitapatil1808&show_icons=true&locale=en" alt="harshitapatil1808" /></p>
+### **Bitly Clone – URL Shortening Service**  
+*Spring Boot, React, MySQL, Redis, Docker, AWS*  
+- Built a URL shortening platform with JWT authentication, role-based access, and secure redirection.  
+- Implemented link management, analytics dashboard, and deployed on AWS using Docker & Redis caching.  
+🔗 [GitHub Repository](https://github.com/HarshitaPatil1808/BitlyClone)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitapatil1808&" alt="harshitapatil1808" /></p>
+---
+
+## 🏆 Achievements & Extracurricular
+- Showcased a project at the **Project Expo** hosted by MVJ College of Engineering.  
+- Competed in the **Mindscape Hackathon** organized in association with IBM SkillsBuild.  
+
+---
+
+## 📜 Certifications
+- **Programming using Java** – Infosys Springboard  
+- **Oracle Certified Foundations Associate** – Oracle  
+
+---
+
+## 📫 Contact Me
+Feel free to reach out via email or connect on LinkedIn! Always open to collaboration and new opportunities.
